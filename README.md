@@ -1,4 +1,4 @@
-# How to Create A Responsive Landing Page Using HTML, CSS & JavaScript
+# Responsive Landing Page Using HTML, CSS & JavaScript
 
 ### [Watch full tutorial on youtube](https://youtu.be/5vt_7zwHhes)
 
